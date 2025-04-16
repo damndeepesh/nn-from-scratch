@@ -43,7 +43,7 @@ pip install -r requirements.txt
 Start the Gradio UI with:
 
 ```bash
-python app.py
+python3 app.py
 ```
 
 ### Usage Guide
